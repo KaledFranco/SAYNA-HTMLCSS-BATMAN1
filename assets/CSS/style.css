@@ -40,6 +40,7 @@ body{
     font-weight: 300;
 }
  
+/*design de la navigation*/
 nav{
     display: flex;
     align-items: center;
@@ -65,7 +66,6 @@ nav ul a:hover{
 
 #hero{
     background-image: url(../Illustrations/Bathome1.png);
-    background-size: cover;
     height: 600px;
     background-position: top center;
     background-repeat: no-repeat;
@@ -91,7 +91,3 @@ nav ul a:hover{
     justify-content: space-between;
 }
 
-/*design de la multimedia*/
-.multimedia{
-    display: flex;
-}
